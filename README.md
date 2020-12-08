@@ -2,7 +2,7 @@
 Include the date you created this project and README file.
 
 ### Project Title
-Replace the Project Title
+Replace the Project Titles
 
 ### Descriptiion
 Describe what your project is about and what it does
