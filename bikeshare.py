@@ -25,7 +25,7 @@ def get_filters():
             print("Oops!That seems to be an invalid value.Please enter a valid value")
     # get user input for month (all, january, february, ... , june)
     while True:    
-        month = input("Please enter which moonth you want to know about")
+        month = input("Which month would you like to know about")
         month = month.lower()
         if month in ['january', 'february', 'march', 'april', 'may', 'june', 'all']:
             break
@@ -33,7 +33,7 @@ def get_filters():
             print("Oops!That seems to be an invalid value.Please enter a valid value")
     # get user input for day of week (all, monday, tuesday, ... sunday)
     while True:
-        day = input("Please enter which day you would like to know about")
+        day = input("Which day would you like to know about?")
         day = day.lower()
         if day in ['monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday', 'all']:
             break
