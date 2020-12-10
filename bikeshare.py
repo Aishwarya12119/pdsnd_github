@@ -25,7 +25,7 @@ def get_filters():
             print("Oops!That seems to be an invalid value.Please enter a valid value")
     # get user input for month (all, january, february, ... , june)
     while True:    
-        month = input("Please enter which moonth you want to know about")
+        month = input("Please enter which month you want to know about")
         month = month.lower()
         if month in ['january', 'february', 'march', 'april', 'may', 'june', 'all']:
             break
