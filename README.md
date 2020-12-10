@@ -18,4 +18,6 @@ The project uses python,numpy,pandas
 ### Credits
 Udacity - I would like to thank Udacity for its courses in python and its course in Version control
 
+panda docs - It was immensely helpful for understanding the concepts
+
 
